@@ -246,9 +246,9 @@ ephone-dn 7
 ephone-dn 8
   number 5288
  ephone-dn 9
-   number ~~99
+   number 5299
 ephone-dn 10
- number ~~98
+ number 5298
 Ephone 1
   Mac-address b4e9.b0b1.715b
   type 8945
@@ -643,6 +643,7 @@ exit
           
 sip-ua
 sip-server ipv4:192.168.k.1
+
 
 
 
